@@ -8,4 +8,4 @@ The "pcb-projects" repo features various electronic PCB designs for enthusiasts.
 
 ## Projects
 
-1. [LiPo Battery Charger](./project-1/)
+1. [LiPo Battery Charger](./LiPoBattery_Schematic_and_Lib/)
