@@ -1,0 +1,163 @@
+# Created by Ultra Librarian 8.3.344 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "NPI54C3R3MTRF_NIC")
+Pad (Name "1") (Location -66.86219788, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 99, 228) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 66.86219788, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 99, 228) (Shape Rectangular) (Layer Top)
+EndPad
+Polygon (PointCount 4) (Type KeepOut) (Layer KeepOutLayer) 
+Point (-15.36219978, 114)
+Point (15.36219978, 114)
+Point (15.36219978, -114)
+Point (-15.36219978, -114)
+EndPolygon
+Polygon (PointCount 4) (Type KeepOut) (Layer TopLayer) 
+Point (-15.36219978, 112)
+Point (15.36219978, 112)
+Point (15.36219978, -112)
+Point (-15.36219978, -112)
+EndPolygon
+Line (Width 6) (Start -126.36219788, -124) (End -126.36219788, 124) (Layer Mechanical15) 
+Line (Width 6) (Start -126.36219788, 124) (End 126.36219788, 124) (Layer Mechanical15) 
+Line (Width 6) (Start 126.36219788, 124) (End 126.36219788, -124) (Layer Mechanical15) 
+Line (Width 6) (Start 126.36219788, -124) (End -126.36219788, -124) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-126.36219788, -124)
+Point (-126.36219788, 124)
+Point (126.36219788, 124)
+Point (126.36219788, -124)
+EndPolygon
+Line (Width 6) (Start -5.25393582, -119) (End 5.25393582, -119) (Layer TopOverlay) 
+Line (Width 6) (Start 5.25393582, 119) (End -5.25393582, 119) (Layer TopOverlay) 
+Line (Width 1) (Start -17.36219978, -114) (End -17.36219978, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -17.36219978, 114) (End -102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, 114) (End -102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, -114) (End -17.36219978, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 17.36219978, 114) (End 17.36219978, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 17.36219978, -114) (End 102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, -114) (End 102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, 114) (End 17.36219978, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, -114) (End 102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, -114) (End 102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, 114) (End -102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, 114) (End -102.36219788, -114) (Layer Mechanical13) 
+Arc (Width 0) (Radius 0) (Location -61.86220169, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Step (Name NPI54C3R3MTRF_NIC.step)
+EndFootprint
+
+Footprint (Name "NPI54C3R3MTRF_NIC-M")
+Pad (Name "1") (Location -70.86219788, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 107, 230) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 70.86219788, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 107, 230) (Shape Rectangular) (Layer Top)
+EndPad
+Polygon (PointCount 4) (Type KeepOut) (Layer KeepOutLayer) 
+Point (-15.36219978, 114)
+Point (15.36219978, 114)
+Point (15.36219978, -114)
+Point (-15.36219978, -114)
+EndPolygon
+Polygon (PointCount 4) (Type KeepOut) (Layer TopLayer) 
+Point (-15.36219978, 112)
+Point (15.36219978, 112)
+Point (15.36219978, -112)
+Point (-15.36219978, -112)
+EndPolygon
+Line (Width 6) (Start -144.36219788, -135) (End -144.36219788, 135) (Layer Mechanical15) 
+Line (Width 6) (Start -144.36219788, 135) (End 144.36219788, 135) (Layer Mechanical15) 
+Line (Width 6) (Start 144.36219788, 135) (End 144.36219788, -135) (Layer Mechanical15) 
+Line (Width 6) (Start 144.36219788, -135) (End -144.36219788, -135) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-144.36219788, -135)
+Point (-144.36219788, 135)
+Point (144.36219788, 135)
+Point (144.36219788, -135)
+EndPolygon
+Arc (Width 6) (Radius 3) (Location -157.36219788, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -17.36219978, -114) (End -17.36219978, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -17.36219978, 114) (End -102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, 114) (End -102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, -114) (End -17.36219978, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 17.36219978, 114) (End 17.36219978, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 17.36219978, -114) (End 102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, -114) (End 102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, 114) (End 17.36219978, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, -114) (End 102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, -114) (End 102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, 114) (End -102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, 114) (End -102.36219788, -114) (Layer Mechanical13) 
+Arc (Width 0) (Radius 3) (Location -65.86219788, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Step (Name NPI54C3R3MTRF_NIC.step)
+EndFootprint
+
+Footprint (Name "NPI54C3R3MTRF_NIC-L")
+Pad (Name "1") (Location -62.86220169, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 91, 226) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 62.86220169, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 91, 226) (Shape Rectangular) (Layer Top)
+EndPad
+Polygon (PointCount 4) (Type KeepOut) (Layer KeepOutLayer) 
+Point (-15.36219978, 114)
+Point (15.36219978, 114)
+Point (15.36219978, -114)
+Point (-15.36219978, -114)
+EndPolygon
+Polygon (PointCount 4) (Type KeepOut) (Layer TopLayer) 
+Point (-15.36219978, 112)
+Point (15.36219978, 112)
+Point (15.36219978, -112)
+Point (-15.36219978, -112)
+EndPolygon
+Line (Width 6) (Start -112.36219788, -117) (End -112.36219788, 117) (Layer Mechanical15) 
+Line (Width 6) (Start -112.36219788, 117) (End 112.36219788, 117) (Layer Mechanical15) 
+Line (Width 6) (Start 112.36219788, 117) (End 112.36219788, -117) (Layer Mechanical15) 
+Line (Width 6) (Start 112.36219788, -117) (End -112.36219788, -117) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-112.36219788, -117)
+Point (-112.36219788, 117)
+Point (112.36219788, 117)
+Point (112.36219788, -117)
+EndPolygon
+Line (Width 6) (Start -5.71703059, -119) (End 5.71703059, -119) (Layer TopOverlay) 
+Line (Width 6) (Start 5.71703059, 119) (End -5.71703059, 119) (Layer TopOverlay) 
+Arc (Width 6) (Radius 3) (Location -141.36219788, 0) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -17.36219978, -114) (End -17.36219978, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -17.36219978, 114) (End -102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, 114) (End -102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, -114) (End -17.36219978, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 17.36219978, 114) (End 17.36219978, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 17.36219978, -114) (End 102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, -114) (End 102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, 114) (End 17.36219978, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, -114) (End 102.36219788, -114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, -114) (End 102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start 102.36219788, 114) (End -102.36219788, 114) (Layer Mechanical13) 
+Line (Width 1) (Start -102.36219788, 114) (End -102.36219788, -114) (Layer Mechanical13) 
+Arc (Width 0) (Radius 3) (Location -57.86220169, 0) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Step (Name NPI54C3R3MTRF_NIC.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "NPI54C3R3MTRF") (PartCount 1) (DesPrefix "U?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Visible "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 1300, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Visible "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Rectangle (Width 5) (Start 300, -200) (End 1300, 200) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2024 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "NIC Components Corp.") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "NPI54C3R3MTRF") (Part 1)
+Parameter (Name "RefDes") (Location 800, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 800, 300) (Height 82) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "NPI54C3R3MTRF") (Part 1)
+Footprint (Name "NPI54C3R3MTRF_NIC")
+EndComponent
+EndComponents

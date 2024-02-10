@@ -1,0 +1,80 @@
+# Created by Ultra Librarian 8.3.344 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "RES_SMF5_TYCO_TYC")
+Pad (Name "1") (Location -305, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 177, 134) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location 305, 0) (Surface True) (Rotation 0) (ExpandMask 0) (ExpandPaste 0)
+PadShape (Size 177, 134) (Shape Rectangular) (Layer Top)
+EndPad
+Polygon (PointCount 4) (Type KeepOut) (Layer TopLayer) 
+Point (-214.5, 147.5)
+Point (214.5, 147.5)
+Point (214.5, -147.5)
+Point (-214.5, -147.5)
+EndPolygon
+Line (Width 6) (Start -403.5, -77) (End -403.5, 77) (Layer Mechanical15) 
+Line (Width 6) (Start -403.5, 77) (End -276, 77) (Layer Mechanical15) 
+Line (Width 6) (Start 276, 77) (End 403.5, 77) (Layer Mechanical15) 
+Line (Width 6) (Start 403.5, 77) (End 403.5, -77) (Layer Mechanical15) 
+Line (Width 6) (Start 403.5, -77) (End 276, -77) (Layer Mechanical15) 
+Line (Width 6) (Start -276, -77) (End -403.5, -77) (Layer Mechanical15) 
+Line (Width 6) (Start -276, -159.5) (End -276, -77) (Layer Mechanical15) 
+Line (Width 6) (Start -276, 77) (End -276, 159.5) (Layer Mechanical15) 
+Line (Width 6) (Start -276, 159.5) (End 276, 159.5) (Layer Mechanical15) 
+Line (Width 6) (Start 276, 159.5) (End 276, 77) (Layer Mechanical15) 
+Line (Width 6) (Start 276, -77) (End 276, -159.5) (Layer Mechanical15) 
+Line (Width 6) (Start 276, -159.5) (End -276, -159.5) (Layer Mechanical15) 
+Polygon (PointCount 12) (Layer Mechanical15) 
+Point (-403.5, -77)
+Point (-403.5, 77)
+Point (-276, 77)
+Point (-276, 159.5)
+Point (276, 159.5)
+Point (276, 77)
+Point (403.5, 77)
+Point (403.5, -77)
+Point (276, -77)
+Point (276, -159.5)
+Point (-276, -159.5)
+Point (-276, -77)
+EndPolygon
+Line (Width 6) (Start 271, 80.10000038) (End 271, 154.5) (Layer TopOverlay) 
+Line (Width 6) (Start -271, -154.5) (End 271, -154.5) (Layer TopOverlay) 
+Line (Width 6) (Start 271, -154.5) (End 271, -80.10000038) (Layer TopOverlay) 
+Line (Width 6) (Start 271, 154.5) (End -271, 154.5) (Layer TopOverlay) 
+Line (Width 6) (Start -271, 154.5) (End -271, 80.10000038) (Layer TopOverlay) 
+Line (Width 6) (Start -271, -80.10000038) (End -271, -154.5) (Layer TopOverlay) 
+Line (Width 1) (Start -266, -149.5) (End 266, -149.5) (Layer Mechanical13) 
+Line (Width 1) (Start 266, -149.5) (End 266, 149.5) (Layer Mechanical13) 
+Line (Width 1) (Start 266, 149.5) (End -266, 149.5) (Layer Mechanical13) 
+Line (Width 1) (Start -266, 149.5) (End -266, -149.5) (Layer Mechanical13) 
+Step (Name RES_SMF5_TYCO_TYC.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "SMF533KFT") (PartCount 1) (DesPrefix "R?")
+Pin (Location 100, 0) (Rotation 180) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "2") (Name Visible "2") (PinSwap 1) (PartSwap 1) (PinSeq 2) (Part 1)
+Pin (Location 400, 0) (Rotation 0) (PinType Passive) (Length 100) (Width 0) (Designator Hidden "1") (Name Hidden "1") (PinSwap 0) (PartSwap 1) (PinSeq 1) (Part 1)
+Line (Width 8) (Start 125, 50) (End 175, -50) (Part 1)
+Line (Width 8) (Start 175, -50) (End 225, 50) (Part 1)
+Line (Width 8) (Start 225, 50) (End 275, -50) (Part 1)
+Line (Width 8) (Start 275, -50) (End 325, 50) (Part 1)
+Line (Width 8) (Start 325, 50) (End 375, -50) (Part 1)
+Line (Width 8) (Start 100, 0) (End 125, 50) (Part 1)
+Line (Width 8) (Start 375, -50) (End 400, 0) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2024 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "TE Connectivity") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "SMF533KFT") (Part 1)
+Parameter (Name "RefDes") (Location 225, 150) (Height 137) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 250, -275) (Height 137) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "SMF533KFT") (Part 1)
+Footprint (Name "RES_SMF5_TYCO_TYC")
+EndComponent
+EndComponents
