@@ -16,6 +16,7 @@
 ![Schematic](./IR%20Module/Images/schematic.png)
 
 <div align="center">
-  <img src="./IR%20Module/Images/2d-pcb.png" height="400" alt="2D PCB">
-  <img src="./IR%20Module/Images/3d-pcb.png" height="400" alt="3D PCB">
+  <img src="./IR%20Module/Images/2d-pcb.png" alt="2D PCB">
+  <img src="./IR%20Module/Images/3d-pcb.png" alt="3D PCB">
+  <img src="./IR%20Module/Images/3d-pcb-final.png" alt="3D PCB">
 </div>
