@@ -4,11 +4,11 @@
 
 ## 1. [LiPo Battery Charger](./LiPo%20Battery%20Charger/)
 
-![Schematic](./LiPo%20Battery%20Charger/images/schematic.png)
+![Schematic](./LiPo%20Battery%20Charger/Images/schematic.png)
 
 <div align="center">
-  <img src="./LiPo%20Battery%20Charger/images/2d-pcb.png" width="400" alt="2D PCB">
-  <img src="./LiPo%20Battery%20Charger/images/3d-pcb.png" width="400" alt="3D PCB">
+  <img src="./LiPo%20Battery%20Charger/Images/2d-pcb.png" width="400" alt="2D PCB">
+  <img src="./LiPo%20Battery%20Charger/Images/3d-pcb.png" width="400" alt="3D PCB">
 </div>
 
 ## 2. [IR Module](./IR%20Module/)
