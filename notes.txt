@@ -1,0 +1,9 @@
+=> To not connect a pin, place a 'Generic No ERC':
+    -> Place > Directives > Generic No ERC
+
+=> Add annotations:
+    -> Tools > Annotation > Annotate Schematics
+
+=> Check for any errors in the schematic:
+    -> Project > Validate PCB Project <Project Name>
+    -> Panels > Messages
