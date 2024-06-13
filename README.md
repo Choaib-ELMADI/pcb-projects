@@ -6,19 +6,24 @@ The pcb-projects repo features various electronic PCB designs for enthusiasts. E
 
 ### [1. LiPo Battery Charger:](./LiPo%20Battery%20Charger/)
 
-![Schematic](./LiPo%20Battery%20Charger/Images/schematic.png)
+ <img src="./LiPo%20Battery%20Charger/Images/schematic.png" alt="2D PCB" width="100%">
 
 <div align="center">
-  <img src="./LiPo%20Battery%20Charger/Images/2d-pcb.png" width="400" alt="2D PCB">
-  <img src="./LiPo%20Battery%20Charger/Images/3d-pcb.png" width="400" alt="3D PCB">
+  <img src="./LiPo%20Battery%20Charger/Images/2d-pcb.png" alt="2D PCB" width="400">
+  <img src="./LiPo%20Battery%20Charger/Images/3d-pcb.png" alt="3D PCB" width="400">
 </div>
 
 ### [2. IR Module:](./IR%20Module/)
 
-![Schematic](./IR%20Module/Images/schematic.png)
+<img src="./IR%20Module/Images/schematic.png" alt="Schematic" width="100%">
+<img src="./IR%20Module/Images/2d-pcb.png" alt="2D PCB" width="100%">
+<img src="./IR%20Module/Images/3d-pcb.png" alt="3D PCB" width="100%">
+<img src="./IR%20Module/Images/3d-pcb-final.png" alt="3D PCB" width="100%">
 
-<div align="center">
-  <img src="./IR%20Module/Images/2d-pcb.png" alt="2D PCB">
-  <img src="./IR%20Module/Images/3d-pcb.png" alt="3D PCB">
-  <img src="./IR%20Module/Images/3d-pcb-final.png" alt="3D PCB">
-</div>
+### [3. Sequential LEDs:](./Sequential%20LEDs/)
+
+<img src="./Sequential%20LEDs/Images/Schematic.png" alt="Schematic" width="100%">
+<img src="./Sequential%20LEDs/Images/Planning Mode.png" alt="Planning Mode" width="100%">
+<img src="./Sequential%20LEDs/Images/Routing.png" alt="Routing" width="100%">
+<img src="./Sequential%20LEDs/Images/Polygon Pour.png" alt="Polygon Pour" width="100%">
+<img src="./Sequential%20LEDs/Images/3D View.png" alt="3D View" width="100%">
