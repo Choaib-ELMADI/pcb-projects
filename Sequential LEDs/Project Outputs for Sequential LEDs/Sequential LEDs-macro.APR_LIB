@@ -1,0 +1,9 @@
+G04:AMPARAMS|DCode=16|XSize=2.4692mm|YSize=0.6221mm|CornerRadius=0.3111mm|HoleSize=0mm|Usage=FLASHONLY|Rotation=0.000|XOffset=0mm|YOffset=0mm|HoleType=Round|Shape=RoundedRectangle|*
+%AMROUNDEDRECTD16*
+21,1,2.4692,0.0000,0,0,0.0*
+21,1,1.8470,0.6221,0,0,0.0*
+1,1,0.6221,0.9235,0.0000*
+1,1,0.6221,-0.9235,0.0000*
+1,1,0.6221,-0.9235,0.0000*
+1,1,0.6221,0.9235,0.0000*
+%

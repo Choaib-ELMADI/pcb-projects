@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Sequential LEDs.PcbDoc   14-Jun-24  1:13:08 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Sequential LEDs.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             19        PTH        115.83mm (4.56inch)
+T2      0.75mm (30mil)                                            Round             3         PTH        8.67mm (0.34inch)
+T3      0.9mm (35mil)                                             Round             16        PTH        43.18mm (1.70inch)
+T4      0.95mm (37mil)                                            Round             20        PTH        101.02mm (3.98inch)
+T5      1.02mm (40mil)                                            Round             2         PTH        2.54mm (0.10inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              60
+
+Total Processing Time (hh:mm:ss) : 00:00:00

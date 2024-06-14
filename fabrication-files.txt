@@ -1,0 +1,11 @@
+=> To generate the gerber files:
+    First, open the PCB document
+    > File > Fabrication Outputs > Gerber Files
+
+=> To generate the drill files:
+    First, open the PCB document
+    > File > Fabrication Outputs > NC Drill Files
+
+=> To generate the pick and place files:
+    First, open the PCB document
+    > File > Assembly Outputs > Generates pick and place files
