@@ -1,0 +1,13 @@
+=> Polygons or Copper Pours are solid areas of copper connected to a net.
+
+=> Shortcuts:
+    > Space             -> Change the direction of the polygon outline elbow
+    > Left Click        -> Place a polygon vertices
+    > Shift + Space     -> Change the corner style
+    > Backspace         -> Undo vertices placements
+    > Tab               -> Access the polygon properties
+    > Right Click * 2   -> Complete the polygon creation
+
+=> Settings:
+    * Automatic repour settings:
+        > Preferences > PCB Editor > General > ...
