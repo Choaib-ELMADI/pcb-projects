@@ -9,15 +9,15 @@ The pcb-projects repo features various electronic PCB designs for enthusiasts. E
  <img src="./LiPo%20Battery%20Charger/Images/schematic.png" alt="2D PCB" width="100%">
 
 <div align="center">
-  <img src="./LiPo%20Battery%20Charger/Images/2d-pcb.png" alt="2D PCB" width="400">
-  <img src="./LiPo%20Battery%20Charger/Images/3d-pcb.png" alt="3D PCB" width="400">
+  <img src="./LiPo%20Battery%20Charger/Images/2d-pcb.png" alt="2D PCB" width="300">
+  <img src="./LiPo%20Battery%20Charger/Images/3d-pcb.png" alt="3D PCB" width="300">
 </div>
 
 ### [2. IR Module:](./IR%20Module/)
 
 <img src="./IR%20Module/Images/schematic.png" alt="Schematic" width="100%">
 <img src="./IR%20Module/Images/2d-pcb.png" alt="2D PCB" width="100%">
-<img src="./IR%20Module/Images/3d-pcb.png" alt="3D PCB" width="100%">
+<!-- <img src="./IR%20Module/Images/3d-pcb.png" alt="3D PCB" width="100%"> -->
 <img src="./IR%20Module/Images/3d-pcb-final.png" alt="3D PCB" width="100%">
 
 ### [3. Sequential LEDs:](./Sequential%20LEDs/)
