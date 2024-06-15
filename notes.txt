@@ -7,3 +7,16 @@
 => Check for any errors in the schematic:
     -> Project > Validate PCB Project <Project Name>
     -> Panels > Messages
+
+=> While routing:
+    -> Press + to place a via
+
+=> In the Board Planning Mode:
+    -> Design > Modify\Redefine\Edit the board shape
+
+=> To get the board dimensions:
+    -> Ctrl + M
+    or
+    > Reports > Measure Distance
+
+    -> Shift + C ==> Clear the previous measurements
