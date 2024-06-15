@@ -27,3 +27,11 @@ The pcb-projects repo features various electronic PCB designs for enthusiasts. E
 <img src="./Sequential%20LEDs/Images/Routing.png" alt="Routing" width="100%">
 <!-- <img src="./Sequential%20LEDs/Images/Polygon Pour.png" alt="Polygon Pour" width="100%"> -->
 <img src="./Sequential%20LEDs/Images/3D View.png" alt="3D View" width="100%">
+
+### [4. LED Chaser:](./LED%20Chaser/)
+
+<img src="./LED%20Chaser/Images/Schematic.png" alt="Schematic" width="100%">
+<!-- <img src="./LED%20Chaser/Images/Planning Mode.png" alt="Planning Mode" width="100%"> -->
+<!-- <img src="./LED%20Chaser/Images/Polygon Pour - VCC.png" alt="Polygon Pour - VCC" width="100%"> -->
+<img src="./LED%20Chaser/Images/Polygon Pour - GND.png" alt="Polygon Pour - GND" width="100%">
+<img src="./LED%20Chaser/Images/3D View.png" alt="3D View" width="100%">
