@@ -6,11 +6,11 @@ The `pcb-projects` repository features various electronic PCB designs for enthus
 
 ### [1. LiPo Battery Charger:](./LiPo%20Battery%20Charger/)
 
-<img src="./LiPo%20Battery%20Charger/Images/schematic.png" alt="2D PCB" width="100%">
-
 <div align="center">
-  <img src="./LiPo%20Battery%20Charger/Images/2d-pcb.png" alt="2D PCB" width="300">
-  <img src="./LiPo%20Battery%20Charger/Images/3d-pcb.png" alt="3D PCB" width="300">
+
+![PCB Schematic](./LiPo%20Battery%20Charger/Images/schematic.png)
+![PCB 2D-3D View](./LiPo%20Battery%20Charger/Images/2d-3d-pcb.png)
+
 </div>
 
 ### [2. IR Module:](./IR%20Module/)
