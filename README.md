@@ -25,11 +25,13 @@ The `pcb-projects` repository features various electronic PCB designs for enthus
 
 ### [3. Sequential LEDs:](./Sequential%20LEDs/)
 
-<img src="./Sequential%20LEDs/Images/Schematic.png" alt="Schematic" width="100%">
-<!-- <img src="./Sequential%20LEDs/Images/Planning Mode.png" alt="Planning Mode" width="100%"> -->
-<img src="./Sequential%20LEDs/Images/Routing.png" alt="Routing" width="100%">
-<!-- <img src="./Sequential%20LEDs/Images/Polygon Pour.png" alt="Polygon Pour" width="100%"> -->
-<img src="./Sequential%20LEDs/Images/3D View.png" alt="3D View" width="100%">
+<div align="center">
+
+![PCB Schematic](./Sequential%20LEDs/Images/schematic.png)
+![PCB Planning - Polygon Pour](./Sequential%20LEDs/Images/planning-ppour-pcb.png)
+![PCB 2D-3D View](./Sequential%20LEDs/Images/2d-3d-pcb.png)
+
+</div>
 
 ### [4. LED Chaser:](./LED%20Chaser/)
 
