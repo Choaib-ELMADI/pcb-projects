@@ -35,8 +35,10 @@ The `pcb-projects` repository features various electronic PCB designs for enthus
 
 ### [4. LED Chaser:](./LED%20Chaser/)
 
-<img src="./LED%20Chaser/Images/Schematic.png" alt="Schematic" width="100%">
-<!-- <img src="./LED%20Chaser/Images/Planning Mode.png" alt="Planning Mode" width="100%"> -->
-<!-- <img src="./LED%20Chaser/Images/Polygon Pour - VCC.png" alt="Polygon Pour - VCC" width="100%"> -->
-<img src="./LED%20Chaser/Images/Polygon Pour - GND.png" alt="Polygon Pour - GND" width="100%">
-<img src="./LED%20Chaser/Images/3D View.png" alt="3D View" width="100%">
+<div align="center">
+
+![PCB Schematic](./LED%20Chaser/Images/schematic.png)
+![PCB Polygon Pour](./LED%20Chaser/Images/polygon-pour.png)
+![PCB 3D View](./LED%20Chaser/Images/3d-pcb.png)
+
+</div>
