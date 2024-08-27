@@ -1,0 +1,63 @@
+# Created by Ultra Librarian 8.3.353 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CON2_1X2_P100RM_HDR_TYC")
+Pad (Name "1") (Location 0, 0) (HoleSize 40) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -30)
+PadShape (Size 60, 60) (Shape Rectangular) (Layer Top)
+PadShape (Size 60, 60) (Shape Rectangular) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location 100, 0) (HoleSize 40) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -30)
+PadShape (Size 60, 60) (Shape Rounded) (Layer Top)
+PadShape (Size 60, 60) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 6) (Start -60, 40) (End -60, -500) (Layer Mechanical15) 
+Line (Width 6) (Start -60, -500) (End 160, -500) (Layer Mechanical15) 
+Line (Width 6) (Start 160, -500) (End 160, 40) (Layer Mechanical15) 
+Line (Width 6) (Start 160, 40) (End -60, 40) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-60, 40)
+Point (-60, -500)
+Point (160, -500)
+Point (160, 40)
+EndPolygon
+Line (Width 6) (Start 57.19100523, 5) (End 43.10000038, 5) (Layer TopOverlay) 
+Line (Width 6) (Start -1.55000019, 43.10000038) (End -25, 90) (Layer TopOverlay) 
+Line (Width 6) (Start -25, 90) (End 25, 90) (Layer TopOverlay) 
+Line (Width 6) (Start 25, 90) (End 1.55000019, 43.10000038) (Layer TopOverlay) 
+Line (Width 6) (Start -55, -495) (End 155, -495) (Layer TopOverlay) 
+Line (Width 6) (Start 155, -495) (End 155, 5) (Layer TopOverlay) 
+Line (Width 6) (Start 155, 5) (End 142.80899477, 5) (Layer TopOverlay) 
+Line (Width 6) (Start -55, 5) (End -55, -495) (Layer TopOverlay) 
+Line (Width 6) (Start -43.10000038, 5) (End -55, 5) (Layer TopOverlay) 
+Line (Width 1) (Start 0, 40) (End -25, 90) (Layer Mechanical13) 
+Line (Width 1) (Start -25, 90) (End 25, 90) (Layer Mechanical13) 
+Line (Width 1) (Start 25, 90) (End 0, 40) (Layer Mechanical13) 
+Line (Width 1) (Start -50, -490) (End 150, -490) (Layer Mechanical13) 
+Line (Width 1) (Start 150, -490) (End 150, 0) (Layer Mechanical13) 
+Line (Width 1) (Start 150, 0) (End -50, 0) (Layer Mechanical13) 
+Line (Width 1) (Start -50, 0) (End -50, -490) (Layer Mechanical13) 
+Step (Name CON2_1X2_P100RM_HDR_TYC.step)
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "826652-2") (PartCount 1) (DesPrefix "J?")
+Pin (Location 200, 0) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 200, -100) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Line (Width 5) (Start 400, 0) (End 200, 0) (Part 1)
+Line (Width 5) (Start 400, -100) (End 200, -100) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, 33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -66.6667) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, -33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -133.3333) (Part 1)
+Rectangle (Width 5) (Start 200, -200) (End 500, 100) (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "TE Connectivity") (Part 1)
+Parameter (Name "RefDes") (Location 350, 250) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 400, 0) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "CON2_1X2_P100RM_HDR_TYC")
+EndComponent
+EndComponents
