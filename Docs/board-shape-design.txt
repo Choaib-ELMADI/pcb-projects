@@ -1,0 +1,23 @@
+=> The first thing to do is to set the origin:
+    > Edit > Origin > Set:
+        --> Set the origin manually
+        or
+        --> Click J, click L and type a specific point coordinates
+
+=> It's recommended to choose the Board Planning Mode while setting the board shape:
+    > Design > Edit Board Shape > [drag the X and Y axes]
+        --> While dragging, pay attention to your board dimensions at the left lower corner
+
+=> Another way is to add objects and define the board shape from the selected ones.
+
+=> The third way is to import a dxf file and define the board shape from the selected objects.
+
+=> The fourth way is:
+    > Select 2D Layout Mode
+    > Select Mechanical Layer
+    > Place lines and arcs
+    > Define the board shape
+
+=> To add a cutout to your PCB:
+    > Select the 2D Layout Mode
+    > Design > Board Shape > Design Board Cutout
