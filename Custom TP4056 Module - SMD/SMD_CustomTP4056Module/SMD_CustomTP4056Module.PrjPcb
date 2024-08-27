@@ -58,7 +58,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -69,7 +69,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OCIBGTPP
 
 [Document2]
-DocumentPath=CustomTP4056Module.PcbDoc
+DocumentPath=..\Downloaded Libraries\ul_826652-2\AltiumDesigner\CustomTP4056Module.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -83,7 +83,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VSRPTEOW
+DocumentUniqueId=MMJPMNED
 
 [Parameter1]
 Name=Number
