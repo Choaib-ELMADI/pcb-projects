@@ -42,3 +42,13 @@ The `pcb-projects` repository features various electronic PCB designs for enthus
 ![PCB 3D View](./LED%20Chaser/Images/3d-pcb.png)
 
 </div>
+
+### [5. Custom TP4056 Module - SMD Version:](./Custom%20TP4056%20Module%20-%20SMD/)
+
+<div align="center">
+
+![PCB Schematic](./Custom%20TP4056%20Module%20-%20SMD/Images/schematic.png)
+![PCB 2D-3D View](./Custom%20TP4056%20Module%20-%20SMD/Images/2d-3d-pcb.png)
+![PCB 3D View](./Custom%20TP4056%20Module%20-%20SMD/Images/3d-pcb.png)
+
+</div>
