@@ -1,0 +1,60 @@
+# Created by Ultra Librarian 8.3.353 Copyright © 1999-2024
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "CONN_M20-99902_HRW")
+Pad (Name "1") (Location 0, 0) (HoleSize 36) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -28)
+PadShape (Size 56, 56) (Shape Rectangular) (Layer Top)
+PadShape (Size 56, 56) (Shape Rectangular) (Layer Bottom)
+EndPad
+Pad (Name "2") (Location -100, 0) (HoleSize 36) (Surface False) (Rotation 0) (ExpandMask 0) (ExpandPaste -28)
+PadShape (Size 56, 56) (Shape Rounded) (Layer Top)
+PadShape (Size 56, 56) (Shape Rounded) (Layer Bottom)
+EndPad
+Line (Width 6) (Start -170, 62) (End -170, -62) (Layer Mechanical15) 
+Line (Width 6) (Start -170, -62) (End 70, -62) (Layer Mechanical15) 
+Line (Width 6) (Start 70, -62) (End 70, 62) (Layer Mechanical15) 
+Line (Width 6) (Start 70, 62) (End -170, 62) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-170, 62)
+Point (-170, -62)
+Point (70, -62)
+Point (70, 62)
+EndPolygon
+Line (Width 6) (Start 0, 62) (End -25, 112) (Layer TopOverlay) 
+Line (Width 6) (Start -25, 112) (End 25, 112) (Layer TopOverlay) 
+Line (Width 6) (Start 25, 112) (End 0, 62) (Layer TopOverlay) 
+Line (Width 6) (Start -165, -57) (End 65, -57) (Layer TopOverlay) 
+Line (Width 6) (Start 65, -57) (End 65, 57) (Layer TopOverlay) 
+Line (Width 6) (Start 65, 57) (End -165, 57) (Layer TopOverlay) 
+Line (Width 6) (Start -165, 57) (End -165, -57) (Layer TopOverlay) 
+Line (Width 1) (Start 0, 62) (End -25, 112) (Layer Mechanical13) 
+Line (Width 1) (Start -25, 112) (End 25, 112) (Layer Mechanical13) 
+Line (Width 1) (Start 25, 112) (End 0, 62) (Layer Mechanical13) 
+Line (Width 1) (Start -160, -52) (End 60, -52) (Layer Mechanical13) 
+Line (Width 1) (Start 60, -52) (End 60, 52) (Layer Mechanical13) 
+Line (Width 1) (Start 60, 52) (End -160, 52) (Layer Mechanical13) 
+Line (Width 1) (Start -160, 52) (End -160, -52) (Layer Mechanical13) 
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "M20-9990245") (PartCount 1) (DesPrefix "J?")
+Pin (Location 200, 0) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "1") (Name Hidden "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 200, -100) (Rotation 180) (PinType Passive) (Length 200) (Width 0) (Designator Visible "2") (Name Hidden "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Line (Width 5) (Start 400, 0) (End 200, 0) (Part 1)
+Line (Width 5) (Start 400, -100) (End 200, -100) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, 33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -66.6667) (Part 1)
+Line (Width 5) (Start 400, 0) (End 350, -33.3333) (Part 1)
+Line (Width 5) (Start 400, -100) (End 350, -133.3333) (Part 1)
+Rectangle (Width 5) (Start 200, -200) (End 500, 100) (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Harwin") (Part 1)
+Parameter (Name "RefDes") (Location 350, 250) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 400, 0) (Height 82) (Rotation 0) (Justification Center) (Value "Type") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Footprint (Name "CONN_M20-99902_HRW")
+EndComponent
+EndComponents

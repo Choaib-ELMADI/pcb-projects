@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=J1 Old Footprint=CON2_1X2_P100RM_HDR_TYC New Footprint=CONN_M20-99902_HRW
+Change Component Footprint: Designator=J2 Old Footprint=CON2_1X2_P100RM_HDR_TYC New Footprint=CONN_M20-99902_HRW
+Change component parameters: Designator = "J1" ("J1"); Footprint = "CON2_1X2_P100RM_HDR_TYC"; UniqueID = "\MQNMCLUE" ("\MQNMCLUE")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "CON2_1X2_P100RM_HDR_TYC"; UniqueID = "\JGEQUKER" ("\JGEQUKER")
+Change component parameters (AddParameter): Name = "Mfr_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
