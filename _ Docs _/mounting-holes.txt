@@ -1,0 +1,8 @@
+=> Before adding any mounting hole, disable all the available polygon pours:
+    > Tools > Polygon Pours > Shelve n Polygon(s)
+
+=> To place a mounting hole:
+    > Place > Pad > ...
+
+=> After adding the mounting holes, restore your polygon pours:
+    > Tools > Polygon Pours > Restore n Shelved Polygon(s)
