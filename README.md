@@ -52,3 +52,13 @@ The `pcb-projects` repository features various electronic PCB designs for enthus
 ![PCB 3D View](./Custom%20TP4056%20Module%20-%20SMD/Images/3d-pcb.png)
 
 </div>
+
+### [6. Custom TP4056 Module - THD Version:](./Custom%20TP4056%20Module%20-%20THD/)
+
+<div align="center">
+
+![PCB Schematic](./Custom%20TP4056%20Module%20-%20THD/Images/schematic.png)
+![PCB 2D-3D View](./Custom%20TP4056%20Module%20-%20THD/Images/2d-3d-pcb.png)
+![PCB 3D View](./Custom%20TP4056%20Module%20-%20THD/Images/3d-pcb.png)
+
+</div>
