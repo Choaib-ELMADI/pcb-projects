@@ -1,8 +1,0 @@
-Change Component Designator: OldDesignator=DS1 NewDesignator=DS2
-Change Component Designator: OldDesignator=DS2 NewDesignator=DS1
-Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
-Added Pin To Net: NetName=NetDS1_2 Pin=R3-2
-Added Net: Name=NetDS1_2
-Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
-Added Pin To Net: NetName=NetDS2_1 Pin=R4-2
-Added Net: Name=NetDS2_1
