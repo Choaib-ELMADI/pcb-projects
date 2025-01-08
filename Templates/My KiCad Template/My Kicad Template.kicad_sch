@@ -1,0 +1,27 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55")
+	(paper "A4")
+	(title_block
+		(date "15 nov 2012")
+	)
+	(lib_symbols)
+	(text "${TITLE}"
+		(exclude_from_sim no)
+		(at 34.798 28.194 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "119bb55f-a648-40f9-ab51-6422ec7448d3")
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
