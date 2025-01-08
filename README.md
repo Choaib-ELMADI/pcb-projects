@@ -4,6 +4,12 @@
 
 The `pcb-projects` repository features a variety of electronic PCB designs for hobbyists and enthusiasts. Each project includes schematics, PCB layouts, and images to make it easy to explore and replicate. The repository also contains a folder for notes, offering tips and useful information for both **Altium Designer** and **KiCad**.
 
+<div align="center">
+
+<img src="./Images/banner.png" alt="PCB Softwares Banner" />
+
+</div>
+
 ## 🟤 Altium Designer
 
 A collection of PCB projects created using **Altium Designer**:
