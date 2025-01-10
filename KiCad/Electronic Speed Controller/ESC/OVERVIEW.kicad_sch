@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "26e474ec-010a-4128-94ba-7f0c4a3ba8ae")
+	(paper "A4")
+	(title_block
+		(date "2025-01-09")
+		(rev "rev_1")
+		(company "Alpha Amps")
+		(comment 1 "Choaib ELMADI")
+		(comment 2 "choaibamd@gmail.com")
+		(comment 3 "choaib3elmadi@gmail.com")
+		(comment 4 "+212 643 241 400")
+	)
+	(lib_symbols)
+)

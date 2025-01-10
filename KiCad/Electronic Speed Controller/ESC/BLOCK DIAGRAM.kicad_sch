@@ -1600,7 +1600,7 @@
 		)
 		(uuid "3d10616d-d41f-4de5-a1d8-e17517a87172")
 	)
-	(text "ESC BLOCK DIAGRAM"
+	(text "${TITLE}"
 		(exclude_from_sim no)
 		(at 153.162 23.114 0)
 		(effects
