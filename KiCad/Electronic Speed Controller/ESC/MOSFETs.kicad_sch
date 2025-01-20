@@ -5,6 +5,7 @@
 	(uuid "1223b08a-897e-4224-b264-93d2d1629299")
 	(paper "A4")
 	(title_block
+		(title "MOSFETs")
 		(date "2025-01-09")
 		(rev "rev_1")
 		(company "Alpha Amps")
@@ -14,4 +15,18 @@
 		(comment 4 "+212 643 241 400")
 	)
 	(lib_symbols)
+	(text "${TITLE}"
+		(exclude_from_sim no)
+		(at 136.906 22.86 0)
+		(effects
+			(font
+				(face "Cascadia Mono NF")
+				(size 7.62 7.62)
+				(thickness 0.762)
+				(bold yes)
+			)
+			(justify top)
+		)
+		(uuid "3c0f8a90-41ea-4825-a375-01e22b579f99")
+	)
 )
