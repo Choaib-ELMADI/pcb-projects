@@ -58,19 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "lib_footprint_mismatch|105500000|115610000|014340b6-1583-4248-8671-fba2148cbddc|00000000-0000-0000-0000-000000000000",
-        "silk_overlap|149945863|99714838|437d7940-a736-497b-b0f3-f6df15b5849c|11f04aae-db15-4563-bd3d-e4eab6a34c00",
-        "silk_overlap|150793482|86714838|2760cdb9-0d3c-4cb0-854d-d881ab4e71c5|b0515bef-af98-48ed-b40d-3ce972f17cab",
-        "silk_overlap|151341101|77567219|554b5915-ebf0-4adc-8f71-d049266b8d59|0576f592-2caf-4f91-bd16-8e50a0f08490",
-        "silk_overlap|151945863|113667219|12dc249f-b080-401c-9788-e86654408459|10023ff9-4415-41d9-831f-510b5da88b45",
-        "silk_overlap|157853676|113466649|292d79be-98c5-4b89-b496-30e828b11a63|827b4f2f-7ae8-498b-9230-dd4e11ee3efb",
-        "silk_overlap|158093482|100419600|c0b0e292-4cf1-4262-8f1b-8b52de9f11a1|2b94e1c3-15a0-4e54-a926-ca7eb3148d8d",
-        "silk_overlap|158093482|86514838|df37c856-e4b4-4384-8d65-c09c882427e9|7bf99e3a-89de-4d65-8b43-15f6c63d48c3",
-        "silk_overlap|165069673|117467219|f27726df-d9bb-4ae0-9ee7-9ad26e4e072b|e2362a7c-b6e9-42cb-b13c-ebf64db620da",
-        "silk_overlap|165071905|104991028|9bfb67b8-26a0-45bc-a5cc-f983a34d76e9|e2719dae-9383-4a97-9c71-e8edf77fd398",
-        "silk_overlap|166403006|91348171|6ce5a697-a500-4c2a-8f55-f7098f0168cc|41363ebf-1fb7-4059-9b11-3c4be2aae31f"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -503,7 +491,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
