@@ -2815,7 +2815,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pso_lib:SSD1306_Module"
 			(at 227.33 102.87 0)
 			(effects
 				(font
@@ -3116,7 +3116,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "407c3f20-0cef-4f0c-a845-fddd333b8f34")
+			(uuid "407c3f20-0cef-4f0c-a845-fddd333b8f35")
 		)
 		(instances
 			(project ""
@@ -3749,7 +3749,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "21839bc4-34c1-4ff9-9748-a7809f07f9c4")
+			(uuid "21839bc4-34c1-4ff9-9748-a7809f07f9c5")
 		)
 		(instances
 			(project ""
@@ -3990,7 +3990,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "pso_lib:MAX30102_Module"
 			(at 227.33 64.77 0)
 			(effects
 				(font
