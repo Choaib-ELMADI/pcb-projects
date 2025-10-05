@@ -12,7 +12,7 @@ The `pcb-projects` repository features a variety of electronic PCB designs for h
 
 ## 🟤 Altium Designer
 
-A collection of PCB projects created using **Altium Designer**:
+A growing collection of PCB projects created using **Altium Designer**:
 
 #### [1. LiPo Battery Charger:](./Altium%20Designer/LiPo%20Battery%20Charger/)
 
@@ -86,6 +86,18 @@ A collection of PCB projects created using **Altium Designer**:
 
 ## 🔵 KiCad
 
-A growing collection of PCB projects designed using **KiCad**. Stay tuned for updates!
+A growing collection of PCB projects designed using **KiCad**:
+
+#### [1. Pulse Oximeter Medical Device:](./KiCad/Pulse%20Oximeter%20Medical%20Device/)
+
+<div align="center">
+
+<img src="./KiCad/Pulse Oximeter Medical Device/Images/schematic.png" alt="PCB Schematic" />
+
+<img src="./KiCad/Pulse Oximeter Medical Device/Images/2d-3d-pcb.png" alt="PCB 2D-3D View" />
+
+<img src="./KiCad/Pulse Oximeter Medical Device/Images/3d-pcb.png" alt="PCB 3D View" />
+
+</div>
 
 Feel free to explore and suggest new projects via issues or pull requests. Happy tinkering!
