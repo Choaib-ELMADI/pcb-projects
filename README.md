@@ -2,7 +2,7 @@
 
 # PCB Projects
 
-The `pcb-projects` repository features a variety of electronic PCB designs for hobbyists and enthusiasts. Each project includes schematics, PCB layouts, and images to make it easy to explore and replicate. The repository also contains a folder for notes, offering tips and useful information for both **Altium Designer** and **KiCad**.
+The `pcb-projects` repository features a variety of electronic PCB designs for hobbyists and enthusiasts. Each project includes schematics, PCB layouts, and images to make it easy to explore and replicate. The repository also contains a folder for notes, offering tips and useful information for both **Altium Designer** and **KiCad**, as well as custom hardware libraries for **KiCad**.
 
 <div align="center">
 
@@ -100,4 +100,16 @@ A growing collection of PCB projects designed using **KiCad**:
 
 </div>
 
-Feel free to explore and suggest new projects via issues or pull requests. Happy tinkering!
+## 📗 KiCad Libraries
+
+A collection of custom hardware libraries for **KiCad** components that aren’t available by default. Each library includes symbols, footprints, and 3D models.
+
+#### [1. 2.4'' 240x320 LCD Display TFT Module:](./Libraries/2.4''%20240x320%20LCD%20Display%20TFT%20Module/)
+
+<div align="center">
+
+<img src="./Libraries/Images/tft-lcd-3d-preview.png" alt="2.4'' 240x320 LCD Display TFT Module" />
+
+</div>
+
+Feel free to explore, suggest new projects, or open pull requests for libraries. Happy tinkering, and stay tuned for more updates!
