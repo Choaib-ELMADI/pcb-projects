@@ -1,4 +1,4 @@
-[![Choaib ELMADI - PCB](https://img.shields.io/badge/Choaib_ELMADI-PCB-8800dd)](https://elmadichoaib.vercel.app) ![Software - Altium Designer](https://img.shields.io/badge/Software-Altium_Designer-8e562e) ![Software - KiCad](https://img.shields.io/badge/Software-KiCad-0078d7)
+[![Choaib ELMADI - PCB](https://img.shields.io/badge/Choaib_ELMADI-PCB-8800dd)](https://elmadichoaib.vercel.app) ![Software - Altium Designer](https://img.shields.io/badge/Software-Altium_Designer-8e562e) ![Software - KiCad](https://img.shields.io/badge/Software-KiCad-0078d7) [![Sponsor](https://img.shields.io/badge/Sponsor-212830?logo=GitHub-Sponsors&logoColor=db61a2)](https://github.com/sponsors/Choaib-ELMADI)
 
 # PCB Projects
 
