@@ -1,4 +1,4 @@
-[![Choaib ELMADI - PCB](https://img.shields.io/badge/Choaib_ELMADI-PCB-8800dd)](https://elmadichoaib.vercel.app) ![Status - Open Source](https://img.shields.io/badge/Status-Open_Source-2bd729) ![Platform - KiCad](https://img.shields.io/badge/Platform-KiCad-f7d620)
+[![Choaib ELMADI - PCB](https://img.shields.io/badge/Choaib_ELMADI-PCB-8800dd)](https://elmadichoaib.vercel.app) ![Software - KiCad](https://img.shields.io/badge/Software-KiCad-0078d7) ![Status - Open Source](https://img.shields.io/badge/Status-Open_Source-2bd729) [![Sponsor](https://img.shields.io/badge/Sponsor-212830?logo=GitHub-Sponsors&logoColor=db61a2)](https://github.com/sponsors/Choaib-ELMADI)
 
 # 2.4" 240x320 LCD Display TFT Module Library
 
